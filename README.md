@@ -1,6 +1,8 @@
 # Introduction
 Date & Time: Tuesday 2:30–5:10 PM (160 mins in total)
+
 Credit: 3
+
 Number of students: ~36
 
 # Intended Learning Outcomes 
